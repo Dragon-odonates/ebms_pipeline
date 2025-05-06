@@ -1,4 +1,4 @@
-# ebms_pipeline
+# eBMS pipeline
 
 Author: Reto Schmucki
 Date: 06/05/2025
